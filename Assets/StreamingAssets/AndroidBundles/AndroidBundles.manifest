@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2622446953
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 0_prefab.unity3d.papa
+      Dependencies:
+        Dependency_0: commonassets_mat.unity3d.papa
+    Info_1:
+      Name: 1_prefab.unity3d.papa
+      Dependencies:
+        Dependency_0: commonassets_mat.unity3d.papa
+    Info_2:
+      Name: 2_prefab.unity3d.papa
+      Dependencies:
+        Dependency_0: commonassets_mat.unity3d.papa
+    Info_3:
+      Name: 3_prefab.unity3d.papa
+      Dependencies:
+        Dependency_0: commonassets_mat.unity3d.papa
+    Info_4:
+      Name: commonassets_shader.unity3d.papa
+      Dependencies: {}
+    Info_5:
+      Name: commonassets_mat.unity3d.papa
+      Dependencies:
+        Dependency_0: commonassets_shader.unity3d.papa
+        Dependency_1: commonassets_jpg.unity3d.papa
+    Info_6:
+      Name: commonassets_jpg.unity3d.papa
+      Dependencies: {}
